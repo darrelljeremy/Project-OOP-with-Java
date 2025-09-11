@@ -20,3 +20,8 @@ The project is designed to optimize efficiency in restaurant operations such as 
 - **Stock Management** → manage ingredient inventory efficiently.  
 - **Sales Reporting** → generate reports for analysis.  
 - **Reusability** → modular OOP design (classes for orders, stock, and transactions).  
+
+### 🧑‍💻 Author
+**Darrell Jeremy**  
+📧 [darrelj2005@gmail.com](mailto:darrelj2005@gmail.com)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/darrell-jeremy-50a42928a)
